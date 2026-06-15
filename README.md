@@ -83,7 +83,7 @@ async function copyCloak() {
 ```
 
 ### 2. Create the UI Trigger
-Bind the function to a button in your HTML. Here is an example of a simple button (you can easily style this with a dark theme or a frosted glassmorphism effect to match your site's aesthetic):
+Bind the function to a button in your HTML. Here is an example of a simple button:
 
 ```
 <button onclick='copyCloak()'>
